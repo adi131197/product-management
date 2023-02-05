@@ -1,0 +1,11 @@
+.header {
+    background-color: black;
+    padding: 0.5rem;
+    font-size: larger;
+    color: white;
+}
+
+.header-product {
+    font-weight: bold;
+    font-size: larger;
+}

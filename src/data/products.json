@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "First Dummy Text",
+    "price": "109.95",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 2,
+    "title": "Second Dummy Text",
+    "price": "19",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 3,
+    "title": "Third Dummy Text",
+    "price": "25",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 4,
+    "title": "Dummy Text 4",
+    "price": "48",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 5,
+    "title": "Dummy Text 5",
+    "price": "120",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 6,
+    "title": "Dummy Text 6",
+    "price": "36",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 7,
+    "title": "dummy Text 7",
+    "price": "45",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 8,
+    "title": "dummy Text 8",
+    "price": "52",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incunt ut labore et dolore magna aliqua."
+  }
+]
