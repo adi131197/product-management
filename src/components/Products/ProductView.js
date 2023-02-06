@@ -10,15 +10,15 @@ const ProductView = ({ handleSearch, handleViewChange }) => {
         placeholder="Search by Title"
         onChange={(e) => handleSearch(e.target.value)}
       />
-      <div className="products-view-btn">
+      <div>
         <button
-          className="btn btn-primary mx-2"
+          className="btn btn-primary m-2"
           onClick={() => handleViewChange("list")}
         >
           <i className="fa fa-list" aria-hidden="true"></i> List View
         </button>
         <button
-          className="btn btn-primary"
+          className="btn btn-primary m-2"
           onClick={() => handleViewChange("grid")}
         >
           <i className="fa fa-th" aria-hidden="true"></i> Grid View

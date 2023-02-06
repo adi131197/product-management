@@ -1,3 +1,10 @@
 .product-card {
-    margin: 1rem;
+  margin: 1rem;
+}
+.card-height {
+  height: 28.125rem;
+}
+
+.img-width {
+  width: 50%;
 }

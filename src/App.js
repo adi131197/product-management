@@ -30,14 +30,20 @@ const App = () => {
     // New Product to be added.
     if (index === -1) {
       setProducts([...products, newProduct]);
-      alert("New Product added.");
+
+      setTimeout(() => {
+        alert("Product Added Successfully !!");
+      }, 1000);
     } else {
       // Already existed Product
       newProducts[index].title = newProduct.title;
       newProducts[index].description = newProduct.description;
       newProducts[index].price = newProduct.price;
       setProducts(newProducts);
-      alert("Product Edited.");
+
+      setTimeout(() => {
+        alert("Product Edited Successfully !!");
+      }, 1000);
     }
   };
 
@@ -53,6 +59,10 @@ const App = () => {
     newProducts.splice(index, 1);
 
     setProducts(newProducts);
+
+    setTimeout(() => {
+      alert("Product Deleted Successfully !!");
+    }, 1000);
   };
 
   // Search Functionality

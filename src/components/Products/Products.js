@@ -3,7 +3,11 @@ import ProductCard from "./ProductCard";
 
 const Products = ({ isGridView, products, handleEdit, handleDelete }) => {
   if (products.length === 0) {
-    return <div className="container">No Products found.</div>;
+    return (
+      <div className="container">
+        <h1>No Products Found.</h1>
+      </div>
+    );
   }
   return (
     <>
